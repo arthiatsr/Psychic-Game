@@ -8,9 +8,9 @@ Please find the Program details below.
 
 It keeps track of the following for the user.
 
-- a. No. of wins.
-- b. No of losses.
-- c. Guesses left.
-- d. What has been guessed so far.
+- No. of wins.
+- No of losses.
+- Guesses left.
+- What has been guessed so far.
 
 Deployed Link - https://arthiatsr.github.io/Psychic-Game/
